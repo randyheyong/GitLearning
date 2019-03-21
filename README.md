@@ -1,2 +1,2 @@
-# LeetCode
-是leetcode上的练习题解答
+
+开始学习learning
